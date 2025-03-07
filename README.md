@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🖥️ I'm a passionate web developer with 1 year of hands-on experience in building responsive and interactive web applications. I started my development journey driven by the desire to solve real-world problems, and since then, I've been continuously learning through courses, videos, and documentation. I’m always eager to take on new challenges and improve my skills to build efficient and innovative solutions.</p>
+<p align="left">🖥️ I'm a passionate full-stack/web developer with 1 year of hands-on experience in building responsive and interactive web applications. I started my development journey driven by the desire to solve real-world problems, and since then, I've been continuously learning through courses, videos, and documentation. I’m always eager to take on new challenges and improve my skills to build efficient and innovative solutions.</p>
 
 ###
 
