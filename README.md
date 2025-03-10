@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🖥️ I'm a passionate full-stack/web developer with 1 year of hands-on experience in building responsive and interactive web applications. I started my development journey driven by the desire to solve real-world problems, and since then, I've been continuously learning through courses, videos, and documentation. I’m always eager to take on new challenges and improve my skills to build efficient and innovative solutions.</p>
+<p align="left">🖥️ I'm a passionate web developer with 1 year of hands-on experience in building responsive and interactive web applications. I started my development journey driven by the desire to solve real-world problems, and since then, I've been continuously learning through courses, videos, and documentation. I’m always eager to take on new challenges and improve my skills to build efficient and innovative solutions.</p>
 
 ###
 
@@ -28,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
@@ -38,6 +40,9 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurMueller31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <h3 align="left">🌐 Socials</h3>
 
